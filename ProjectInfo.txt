@@ -1,0 +1,5 @@
+What are the concepts / techniques used in this project ?
+1. MVVM Architectural Design Pattern
+2. Room persistence library
+3. Kotlin Coroutines
+4. Kodein Dependency injection framework

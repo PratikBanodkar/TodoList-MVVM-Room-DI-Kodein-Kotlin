@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TODO List</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="mark_as_done">Mark as done</string>
+</resources>
